@@ -1,2 +1,3 @@
 # Netflix-Clone
-![image](https://github.com/user-attachments/assets/a02733c0-8a57-4de3-af4f-f97280224a9d)
+![image](https://github.com/user-attachments/assets/b383fce2-5b25-4812-bf52-58eef71b3b37)
+
