@@ -63,3 +63,9 @@
 .hero_btns .btn.dark-btn:hover {
   background: #6d6d6e66;
 }
+
+@media (max-width: 1024px) {
+  .hero_caption .title-cards {
+    display: none;
+  }
+}
