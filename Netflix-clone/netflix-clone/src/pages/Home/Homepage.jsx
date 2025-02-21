@@ -30,7 +30,7 @@ const Homepage = () => {
               More Info
             </button>
           </div>
-          <TitleCards className="title-cards" />
+          <TitleCards className="first-title-cards" />
         </div>
       </div>
       <div className="more-cards">
